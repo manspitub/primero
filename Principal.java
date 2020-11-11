@@ -1,4 +1,4 @@
-MANUEL MANUEL fernando juan
+MANUEL MANUEL fernando juanaco
 
 
 package arrays3;
