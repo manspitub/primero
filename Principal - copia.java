@@ -1,6 +1,3 @@
-MANUEL MANUEL
-
-
 package arrays3;
 
 import java.util.Random;
