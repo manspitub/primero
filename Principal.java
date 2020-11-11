@@ -1,4 +1,4 @@
-MANUEL MANUEL fernando
+MANUEL MANUEL fernando juan
 
 
 package arrays3;
@@ -19,7 +19,7 @@ public class Principal {
 		
 		Random r=new Random(System.nanoTime());
 		
-		listado=new int[tam]; //la primera vez lo que hay entre [] es el tamaño, luego es el INDICE (dentro del for x ejemplo)
+		listado=new int[tam]; //la primera vez lo que hay entre [] es el tamaÃ±o, luego es el INDICE (dentro del for x ejemplo)
 		
 		//forma de inicializar directamente con datos (solo y exclusivamente la primera vez
 		//se puede declarar un array con valores)
